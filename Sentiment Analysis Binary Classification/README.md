@@ -4,4 +4,4 @@
 
 * Conducted ablation analysis to validate the model’s effectiveness, showcasing its competitive performance in sentiment classification.
 
-* Paper under review for publication. Will upload paper and source-code once published.
+* *Paper under review for publication. Will upload paper and source-code once published.*
