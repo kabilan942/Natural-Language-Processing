@@ -1,5 +1,7 @@
-To perform binary classification on benchmark datasets for sentiment analysis and achieve results comparable to models in SOTA (State of the Art)  research papers.
+Developed a sentiment analysis framework (RGCA-SA) leveraging RoBERTa embeddings and a neural network-based model to analyze text sentiment.
 
-Designed a model with Contextual Embeddings, CNN and Bi-GRU and utilized Keras & Tensorflow for model development and training. Achieved accuracy scores of 93.25 on IMDb, 91.05 on SST2 and 85.55 on MR datasets.
+Trained the model on popular movie sentiment analysis datasets such as IMDb, SST2, and MR, attaining accuracy scores of 93.25%, 91.05%, and 85.55% respectively, and achieved results comparable to models in SOTA (State of the Art) research papers.
+
+Conducted ablation analysis to validate the model’s effectiveness, showcasing its competitive performance in sentiment classification. 
 
 Paper under review for publication. Will upload paper and source-code once published. 
